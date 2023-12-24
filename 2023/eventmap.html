@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset='utf-8' />
+      <title></title>
+      <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+      <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+      <script src='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.js'></script>
+      <link href='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.css' rel='stylesheet' />
+      <script src='https://npmcdn.com/csv2geojson@latest/csv2geojson.js'></script>
+      <style>
+        body {
+          margin: 0;
+          padding: 0;
+        }
+
+        #map {
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          width: 100%;
+        }
+        #map_title {
+          font-family: 'Open Sans', sans-serif;
+          position: absolute;
+          padding: 4px;
+          background-color: white;
+        }
+        #map_footer {
+          width: 600px;
+          height: 22px;
+          left: 0;
+          bottom: 0;
+          background: #44aa33;
+          position: absolute;
+          padding: 0px;
+          background-color: white;
+        }
+        #mi_img img{
+          width:  250px;
+          object-fit: cover;
+          border: 1px solid #fafafa;
+        }
+
+        .ctrlmarker {
+          background-image: url('images/ctrl.png');
+          background-size: cover;
+          width: 32px;
+          height: 32px;
+          border-radius: 50%;
+          cursor: pointer;
+        }
+
+        .echomarker {
+          background-image: url('images/echo.png');
+          background-size: cover;
+          width: 32px;
+          height: 32px;
+          border-radius: 50%;
+          cursor: pointer;
+        }
+
+        .mdmarker {
+          background-image: url('images/md.png');
+          background-size: cover;
+          width: 32px;
+          height: 32px;
+          border-radius: 50%;
+          cursor: pointer;
+        }
+
+        .fsmarker {
+          background-image: url('images/fs.png');
+          background-size: cover;
+          width: 32px;
+          height: 32px;
+          border-radius: 50%;
+          cursor: pointer;
+        }
+
+        .ingressmarker {
+          background-image: url('images/ingress.png');
+          background-size: cover;
+          width: 32px;
+          height: 32px;
+          border-radius: 50%;
+          cursor: pointer;
+        }
+      </style>
+  </head>
+  <body>
+
+  <div id='map'></div>
+  <div id="map_title">
+    <h3><a href="https://adventar.org/calendars/8871">Ingress Advent Calendar 2023 Event Map</a></h3>
+  </div>
+  <div id="map_footer">
+    このページは個人が作成したものでイングレス公式サイトではありません
+  </div>
+  <script>
+  mapboxgl.accessToken = 'pk.eyJ1IjoicmVpMDAwMCIsImEiOiJja3Z3ZXppdmQwN29xMm9wYW16bjA4OHVuIn0.P1GFlByw6eCNyGZOKbD2CQ';
+  const map = new mapboxgl.Map({
+	container: 'map', // container ID
+	style: 'mapbox://styles/mapbox/streets-v12', // style URL
+    center: [140.084556, 36.104611],
+    zoom: 4.5,
+  });
+
+  $(document).ready(function () {
+    $.ajax({
+      type: "GET",
+      url: 'https://docs.google.com/spreadsheets/d/1sxGS5uA1mGthS9wLm0APub0qzjCiJ0YoSPfsllXXRb0/gviz/tq?tqx=out:csv&sheet=list',
+      dataType: "text",
+      success: function (csvData) {
+        makeGeoJSON(csvData);
+      }
+    });
+  
+    function makeGeoJSON(csvData) {
+      csv2geojson.csv2geojson(csvData, {
+        latfield: 'lat',
+        lonfield: 'lng',
+        delimiter: ','
+      }, function (err, data) {
+        console.log(data)
+        for (const marker of data.features) {
+            console.log(marker)
+            const el = document.createElement('div');
+            kind = 'ingress'
+            switch (marker.properties.type) {
+            case 'XM ANOMALY':
+              if (marker.properties.title == 'ECHO上田アノマリー')
+                kind = 'echo'
+              else
+                kind = 'ctrl'
+              break
+            case 'FIRST SATURDAY':
+            case 'VFS':
+              kind = 'fs'
+              break
+            case 'MISSION DAY':
+              kind = 'md'
+              break
+            }
+            el.className = kind + 'marker';
+            new mapboxgl.Marker(el)
+              .setLngLat(marker.geometry.coordinates)
+              .setPopup(new mapboxgl.Popup()
+                .setHTML(`<h3>${marker.properties.title}</h3>${marker.properties.date}<br/>${marker.properties.type}<br/><a href="${marker.properties.URL}" target="_blank"><b>URL</b></a><br/>参加人数: ${marker.properties.attendance}`))
+              .addTo(map);
+        }
+      });
+    };
+    $("a.mapbox-improve-map").text("");
+  });
+  </script>
+
+  </body>
+</html>
