@@ -34,16 +34,24 @@ X（旧Twitter）に投稿された記録からも、その壮絶さが垣間見
 
 [スコア](https://ingress.com/en/news/2024-crypticmem#cellbattle-2-results)
 
-<img src="images/map.png" width="300px">
-<img src="images/score.png" width="300px">
+<img src="images/map.png" width="300px" />
+<img src="images/score.png" width="300px" />
 
-<img src="images/graph.png" width="600px">
+<img src="images/graph.png" width="600px" />
 
 この結果に至るまでの過程を振り返ると、何度も逆転が繰り広げられた戦いでした。それだけに、参加者全員にとって忘れられない記憶となったのだと思います。
 
+## セルバトルの舞台
+標高400m 〜2,000m。走行距離 3000km (ガソリン消費量 150l)
+
+<img src="images/adv2024_1.jpg" width="400px"/>
+<img src="images/adv2024_2.jpg" width="400px"/>
+
+<img src="images/adv2024_4.jpg" width="400px"/>
+<img src="images/adv2024_3.jpg" width="300px"/>
 
 ## おまけ
-実は、「長野セル戦」と呼ばれる戦いは、過去にも行われています。それが2014年42節（11/3-10）の#Darsana Cell Challengeです。当時はエンライテンドがレジスタンスに完敗しました。その時の長野レジスタンスリーダーが制作した動画が素晴らしい出来栄えなので、ぜひご覧ください
+実は、「長野セル戦」と呼ばれる戦いは、10年前にも行われています。それが2014年42節（11/3-10）の#Darsana Cell Challengeです。当時はエンライテンドがレジスタンスに完敗しました。その時の長野レジスタンスリーダーが制作した動画が素晴らしい出来栄えなので、ぜひご覧ください
 
 YouTube: [Ingress #Darsana PA01-ALPHA-14](https://youtu.be/0oecKqTKsuE?si=GHFO6iZ9TY78ObnK)
 
