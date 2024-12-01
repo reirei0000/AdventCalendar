@@ -73,4 +73,6 @@ YouTube: [Ingress #Darsana PA01-ALPHA-14](https://youtu.be/0oecKqTKsuE?si=GHFO6i
 
 ## 来年はどこへ
 
-**NIAに愛されたセル「PA01-ALPHA-14」 来年もとてもたのしみです！**
+NIAに愛されたセル「PA01-ALPHA-14」 来年もとてもたのしみです！
+
+備えよ常に (Be Prepared)
