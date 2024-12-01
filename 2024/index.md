@@ -2,7 +2,7 @@
 
 この記事は、[Ingress & Wayfarer(その２) Advent Calendar 2024](https://adventar.org/calendars/10302) 2日目の記事です。
 
-コロナ禍以降、セル「PA01-ALPHA-14」では毎年のようにIngress公式イベントが開催されています。その頻度の多さから「NIANTICに愛されているのでは？」という思いで、今回のタイトルを付けました。
+コロナ禍以降、セル「PA01-ALPHA-14」では毎年Ingress公式イベントが開催されています。その頻度の多さから「NIANTICに愛されているのでは？」という思いで、今回のタイトルを付けました。
 
 ### 近年長野県イベントリスト
 * 2022/02 クレーゼ効果 / フェーズ２ (長野市)
@@ -12,9 +12,25 @@
 * 2023/06 [Ingress Mission Day](https://ingress.com/news/echo-rules) (上田市)
 * 2024/02 [Cryptic Memories: Cell Battle](https://ingress.com/news/2024-crypticmem#cellbattle-2-results) (長野県および隣接県)
 
+## セルバトル
+私は長野県北部、東部での戦いに参加。走行距離 約3000km (ガソリン消費量 約150l)  
+２月末の気温は真冬日のところもありました。
+
+左上から
+* 標高909.7m 大町市、長野県
+* 標高595.3m [曹洞宗 明松寺](https://intel.ingress.com/?pll=36.62538,137.980115)
+* 標高1281.7m [大地を拓く](https://intel.ingress.com/?pll=36.453341,138.476744)
+* 標高654.6m [農魂の碑](https://intel.ingress.com/?pll=36.665782,138.365241)
+
+<img src="images/adv2024_1.jpg" width="300px"/>
+<img src="images/adv2024_2.jpg" width="300px"/>
+
+<img src="images/adv2024_4.jpg" width="300px"/>
+<img src="images/adv2024_3.jpg" width="250px"/>
+
 ---
 
-今年開催されたセルバトルは、175時間にも及ぶ壮大な戦いでした。長野県全域を含む本州全土を舞台にしたこの戦いは、単なるMUスコア争いではなく、Ingress史上トップ3に入る名勝負だったと自負しています。最後のCP28からの逆転劇に次ぐ逆転劇は、参加者だけでなく観戦していたエージェントたちの心にも深く刻まれたようです。
+セルバトルは、セプティサイクル1回分(175時間)の壮大な戦いです。長野県全域を含む本州全土を舞台にしたこの戦いは、単なるMUスコア争いではなく、Ingress史上トップ3に入る名勝負だったと自負しています。最後のCP28からの逆転劇に次ぐ逆転劇は、参加者だけでなく観戦していたエージェントたちの心にも深く刻まれたようです。
 
 イベント後に会う人会う人から「長野セル戦、すごかったですね」「本当に面白かった」という言葉をたくさんいただきました。これは私が所属するエンライテンド陣営だけでなく、レジスタンス陣営のエージェントからも同様です。このような成功は、Ingress初期から築かれてきたクロスファクション（XF）での連携や、共にイベントを達成してきた仲間たちのおかげです。
 
@@ -41,26 +57,17 @@ X（旧Twitter）に投稿された記録からも、その壮絶さが垣間見
 
 この結果に至るまでの過程を振り返ると、何度も逆転が繰り広げられた戦いでした。それだけに、参加者全員にとって忘れられない記憶となったのだと思います。
 
-## セルバトルの舞台
-標高400m 〜2,000m。走行距離 3000km (ガソリン消費量 150l)
-
-<img src="images/adv2024_1.jpg" width="400px"/>
-<img src="images/adv2024_2.jpg" width="400px"/>
-
-<img src="images/adv2024_4.jpg" width="400px"/>
-<img src="images/adv2024_3.jpg" width="300px"/>
-
 ## おまけ
-実は、「長野セル戦」と呼ばれる戦いは、10年前にも行われています。それが2014年42節（11/3-10）の#Darsana Cell Challengeです。当時はエンライテンドがレジスタンスに完敗しました。その時の長野レジスタンスリーダーが制作した動画が素晴らしい出来栄えなので、ぜひご覧ください
+実は、「長野セル戦」と呼ばれる戦いは、10年前にも行われています。それが2014年42節（11/3-10）の[#Darsana Global](https://x.com/search?q=%23Darsana%20Global)です。当時はエンライテンドがレジスタンスに完敗しました。その時の長野レジスタンスリーダーが制作した動画が素晴らしい出来栄えなので、ぜひご覧ください
 
+<a href="https://youtu.be/0oecKqTKsuE?si=GHFO6iZ9TY78ObnK"><img src="images/2014.png" width="128" /></a>
 YouTube: [Ingress #Darsana PA01-ALPHA-14](https://youtu.be/0oecKqTKsuE?si=GHFO6iZ9TY78ObnK)
 
 
-## 来年に向けて
-[Ingress & Wayfarer(その１) Advent Calendar 2024](https://adventar.org/calendars/9996)
-[Ingress & Wayfarer(その２) Advent Calendar 2024](https://adventar.org/calendars/10302)
-
 明日(3日目)は [ドクターささけんさん](https://twitter.com/dr_sasaken") [Brian Roseさん](https://twitter.com/brianrose) です。
+* [Ingress & Wayfarer(その１) Advent Calendar 2024](https://adventar.org/calendars/9996)
+* [Ingress & Wayfarer(その２) Advent Calendar 2024](https://adventar.org/calendars/10302)
 
+## 来年はどこへ
 
-NIAに愛されたセルPA01-ALPHA-14。来年もとてもたのしみです。
+**NIAに愛されたセル「PA01-ALPHA-14」 来年もとてもたのしみです！**
