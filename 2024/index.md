@@ -4,6 +4,8 @@
 
 <iframe width=480 height=375 allow="clipboard-write" allowtransparency="true" class="fude-iframe-oembed-widget__iframe" frameborder="0" scrolling="no" src="https://adventar.org/calendars/10302/embed" loading="lazy"></iframe>
 
+この記事は、Ingressという素晴らしいゲームを作り、楽しいイベントを継続して提供してくださっているNIANTICの皆さま、熱い戦いを共に繰り広げてくださるレジスタンスエージェントの皆さま、そして私と共に戦い続けるエンライテンドエージェントの皆さまへ感謝を込めて捧げます。
+
 コロナ禍以降、セル「PA01-ALPHA-14」では毎年Ingress公式イベントが開催されています。その頻度の多さから「NIANTICに愛されているのでは？」という思いで、今回のタイトルを付けました。
 
 ### 近年長野県イベントリスト
