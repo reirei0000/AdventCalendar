@@ -2,6 +2,8 @@
 
 この記事は、[Ingress & Wayfarer(その２) Advent Calendar 2024](https://adventar.org/calendars/10302) 2日目の記事です。
 
+<iframe allow="clipboard-write" allowtransparency="true" class="fude-iframe-oembed-widget__iframe" frameborder="0" scrolling="no" src="https://adventar.org/calendars/10302/embed" loading="lazy"></iframe>
+
 コロナ禍以降、セル「PA01-ALPHA-14」では毎年Ingress公式イベントが開催されています。その頻度の多さから「NIANTICに愛されているのでは？」という思いで、今回のタイトルを付けました。
 
 ### 近年長野県イベントリスト
@@ -59,9 +61,9 @@ X（旧Twitter）に投稿された記録からも、その壮絶さが垣間見
 ## おまけ
 実は、「長野セル戦」と呼ばれる戦いは、10年前にも行われています。それが2014年42節（11/3-10）の[#Darsana Global](https://x.com/search?q=%23Darsana%20Global)です。当時はエンライテンドがレジスタンスに完敗しました。その時の長野レジスタンスリーダーが制作した動画が素晴らしい出来栄えなので、ぜひご覧ください
 
-<a href="https://youtu.be/0oecKqTKsuE?si=GHFO6iZ9TY78ObnK"><img src="images/2014.png" width="128" /></a>
-YouTube: [Ingress #Darsana PA01-ALPHA-14](https://youtu.be/0oecKqTKsuE?si=GHFO6iZ9TY78ObnK)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0oecKqTKsuE?si=34EcZhw4f31zR7Kd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+YouTube: [Ingress #Darsana PA01-ALPHA-14](https://youtu.be/0oecKqTKsuE?si=GHFO6iZ9TY78ObnK)
 
 明日(3日目)は [ドクターささけんさん](https://twitter.com/dr_sasaken") [Brian Roseさん](https://twitter.com/brianrose) です。
 * [Ingress & Wayfarer(その１) Advent Calendar 2024](https://adventar.org/calendars/9996)
