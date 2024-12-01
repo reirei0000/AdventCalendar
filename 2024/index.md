@@ -67,7 +67,7 @@ X（旧Twitter）に投稿された記録からも、その壮絶さが垣間見
 
 YouTube: [Ingress #Darsana PA01-ALPHA-14](https://youtu.be/0oecKqTKsuE?si=GHFO6iZ9TY78ObnK)
 
-明日(3日目)は [ドクターささけんさん](https://twitter.com/dr_sasaken") [Brian Roseさん](https://twitter.com/brianrose) です。
+明日(3日目)は [ドクターささけんさん](https://twitter.com/dr_sasaken) [Brian Roseさん](https://twitter.com/brianrose) です。
 * [Ingress & Wayfarer(その１) Advent Calendar 2024](https://adventar.org/calendars/9996)
 * [Ingress & Wayfarer(その２) Advent Calendar 2024](https://adventar.org/calendars/10302)
 
