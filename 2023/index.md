@@ -32,7 +32,7 @@
 
 ## ミッションデイ/頒布会
 こちらに書いたとおりです。  
-https://reirei0000.github.io/AdventCalendar/2023/mdshinshuueda/ 
+[https://reirei0000.github.io/AdventCalendar/2023/mdshinshuueda/](https://reirei0000.github.io/AdventCalendar/2023/mdshinshuueda/)
 
   序盤の準備について書き足します。Echo上田アノマリーはサテライトということで、過去の実績からはMDが開催されるか不明でした。発表を待っていては準備期間が短くなるため、見切りで準備を開始しました。
 個人的には2022年末の[MD横浜](https://sites.google.com/view/md2022yokohama)、頒布会、ミートアップ会場が素晴らしいもので印象に残っています。まずはそれをお手本として目指しました。
