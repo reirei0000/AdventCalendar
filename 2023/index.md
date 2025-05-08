@@ -11,9 +11,9 @@
 [rei0000](https://twitter.com/rei0000_enl) と申します。過去にイングレスをモチーフとしたミニゲームを作ったりもしています。
 
 * 非公式Ingressかるた(ver.2020) & グリフ  
-  https://reirei0000.github.io/ingress-advent-calendar-2020/
+  https://reirei0000.github.io/ingress-advent-calendar-2020/ 
 * Glyple  
-  https://reirei0000.github.io/glyple/public/
+  https://reirei0000.github.io/glyple/public/ 
 
 今年は身近な場所でアノマリーが開催されました。
 合う人合う人に「なんで上田市でアノマリーなの？」と言われました。それはなんでこんな小さな都市で開催するのといった疑問であったり、もっとふさわしい都市があるんじゃないといったものもあったような気もします。
@@ -31,7 +31,8 @@
 残念ながら、上田アノマリーでの開催は実現できませんでしたが、日本のGORUCKERの熱意が伝わったような話を聞きました。
 
 ## ミッションデイ/頒布会
-こちらに書いたとおりです。 https://community.ingress.com/jp/discussion/21658
+こちらに書いたとおりです。  
+https://reirei0000.github.io/AdventCalendar/2023/mdshinshuueda/ 
 
   序盤の準備について書き足します。Echo上田アノマリーはサテライトということで、過去の実績からはMDが開催されるか不明でした。発表を待っていては準備期間が短くなるため、見切りで準備を開始しました。
 個人的には2022年末の[MD横浜](https://sites.google.com/view/md2022yokohama)、頒布会、ミートアップ会場が素晴らしいもので印象に残っています。まずはそれをお手本として目指しました。
