@@ -38,8 +38,8 @@
 
 エリアはこんな感じで設定しました
 
-<img src="images/bb_area.jpg" width="300px"/>
-<img src="images/supply_area.jpg" width="300px"/>
+<img src="images/bb_area.jpg" width="450px"/>
+<img src="images/supply_area.jpg" width="450px"/>
 
 Battle Beacon 投入ありがとうございました
 
