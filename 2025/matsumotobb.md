@@ -15,8 +15,8 @@
 * 場所: 松本駅お城口〜四柱神社周辺
   - 使用ポータル数: 延べ72個
 * 主催者
-  - Kuraken3 (RES)
-  - [rei0000](https://bsky.app/profile/rei0000-enl.bsky.social) (ENL)
+  - [kuraken3](https://t.me/Kuraken3) (RES)
+  - [rei0000](https://t.me/rei0000) (ENL)
 
 ## 広報
 [🏔Ingress XF Nagano🏯  X](https://x.com/ingressxfnagano/status/1978765717421056384?s=20)
