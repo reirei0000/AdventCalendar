@@ -1,4 +1,4 @@
-# 松本 +Buildup Battle レポート
+# 松本 +Beta Buildup Battles レポート
 
 この記事は、[Ingress & Wayfarer(その２) Advent Calendar 2025](https://adventar.org/calendars/11701) 2日目の記事です。
 
@@ -7,16 +7,22 @@
 
 ## イベント概要
 
-松本駅周辺を舞台に、+Betaトークン獲得を目的としたバトルイベントを開催しました。
+松本駅周辺を舞台に、+Betaトークン獲得を目的としたバトルイベントを開催しました。  
+公式ルール https://ingress.com/news/2025-plusbeta-buildupbattles 
 
-* イベント名: 松本 +Buildup Battle 
+* イベント名: 松本 +Beta Buildup Battles 
 * 開催日時: 2025年11月30日(日) 13:00〜17:00
 * 場所: 松本駅お城口〜四柱神社周辺
   - 使用ポータル数: 延べ72個
 * 主催者
   - Kuraken3 (RES)
-  - rei0000 (ENL)
-  
+  - [rei0000](https://bsky.app/profile/rei0000-enl.bsky.social) (ENL)
+
+## 広報
+🏔Ingress XF Nagano🏯  
+https://x.com/ingressxfnagano/status/1978765717421056384?s=20
+
+<img src="images/matsumotobb.jpg" width="300px"/>
 
 ## 開催結果
 
@@ -41,7 +47,7 @@
 <img src="images/bb_area.jpg" width="450px"/>
 <img src="images/supply_area.jpg" width="450px"/>
 
-Battle Beacon 投入ありがとうございました
+Battle Beacon の投入ありがとうございました
 
 
 ## KPT（振り返り）
