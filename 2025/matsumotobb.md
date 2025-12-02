@@ -8,7 +8,7 @@
 ## イベント概要
 
 松本駅周辺を舞台に、+Betaトークン獲得を目的としたバトルイベントを開催しました。  
-公式ルール https://ingress.com/news/2025-plusbeta-buildupbattles 
+[公式ルール](https://ingress.com/news/2025-plusbeta-buildupbattles)
 
 * イベント名: 松本 +Beta Buildup Battles 
 * 開催日時: 2025年11月30日(日) 13:00〜17:00
@@ -19,8 +19,7 @@
   - [rei0000](https://bsky.app/profile/rei0000-enl.bsky.social) (ENL)
 
 ## 広報
-🏔Ingress XF Nagano🏯  
-https://x.com/ingressxfnagano/status/1978765717421056384?s=20
+[🏔Ingress XF Nagano🏯  X](https://x.com/ingressxfnagano/status/1978765717421056384?s=20)
 
 <img src="images/matsumotobb.jpg" width="300px"/>
 
